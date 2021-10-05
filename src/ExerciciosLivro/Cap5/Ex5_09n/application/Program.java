@@ -34,9 +34,7 @@ public class Program {
         int meiaIdadeHomem = 0;
         int fCont = 0;
         int fIdade = 0;
-        int compIdade1 = 0;
-        int compIdade2 = 0;
-        int compIdade3 = 0;
+
         for (Cliente c : clienteList) {
             if (c.getSexo() == 'm') {
                 mCont++;
