@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_06;
 
 //Se você não sabe do quê se trata o problema abaixo, eu explico:
 //Este problema é considerado o maior problema matemático da história, o famoso "3x+1".

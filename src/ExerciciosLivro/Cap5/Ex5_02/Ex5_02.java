@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_02;
 
 //O exercício está feito com as estruturas de repetição ao início e ao final (nessa ordem)
 

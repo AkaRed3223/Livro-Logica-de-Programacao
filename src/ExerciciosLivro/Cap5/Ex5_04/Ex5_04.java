@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_04;
 
 //O exercício está resolvido,
 //mas aqui não consegui entender o que o exercício pede por "a respectiva média para cada um dos itens"

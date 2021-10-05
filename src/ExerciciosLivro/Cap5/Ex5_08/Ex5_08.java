@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_08;
 
 import java.util.Scanner;
 

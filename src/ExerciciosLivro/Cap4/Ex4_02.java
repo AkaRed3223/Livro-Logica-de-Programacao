@@ -8,7 +8,7 @@ public class Ex4_02 {
         int b = 8;
         int c = 10;
 
-        int media = (a + b + c) / 2;
+        int media = (a + b + c) / 3;
 
         System.out.println("MEDIA = " + media);
     }

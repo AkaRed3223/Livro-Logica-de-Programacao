@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_03;
 
 //O programa abaixo é uma tabuada. Simples assim.
 
@@ -17,6 +17,8 @@ public class Ex5_03 {
         for (int i = 1; i <= n; i++) {
             int result = num * i;
             System.out.println(num + " x " + i + " = " + result);
+
+
         }
     }
 }

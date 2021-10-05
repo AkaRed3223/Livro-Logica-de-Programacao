@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_07;
 
 //Neste exercício devemos criar um algoritmo que calcula a mediana de uma sequência de números.
 //Essa sequência é definida a partir de um número inicial e um número final,

@@ -1,4 +1,4 @@
-package ExerciciosLivro.Cap5;
+package ExerciciosLivro.Cap5.Ex5_05;
 
 //SEQUÊNCIA DE FIBONACCI
 
@@ -14,11 +14,12 @@ public class Ex5_05 {
         int b = 1;
         int c;
 
-        for (int i = 0; i < num; i++) {
+        for (int i = 0; i < num; i = i + 1) {
             System.out.print(a + " | ");
             c = a + b;
             a = b;
             b = c;
+
         }
     }
 }
