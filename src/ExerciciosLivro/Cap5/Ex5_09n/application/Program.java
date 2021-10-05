@@ -1,6 +1,6 @@
 package ExerciciosLivro.Cap5.Ex5_09n.application;
 
-//Quase pronto. Falta implementar o comparador de idades
+//TODO Falta implementar o comparador de idades
 
 import ExerciciosLivro.Cap5.Ex5_09n.entities.Cliente;
 import ExerciciosLivro.Cap5.Ex5_09n.entities.Escolaridade;
@@ -48,7 +48,7 @@ public class Program {
                 fCont++;
                 fIdade += c.getIdade();
 
-                //Falta implementar o comparador de idades
+                //TODO Implementar o comparador de idades
 
             } else {
                 System.out.println("Erro: Terminando o programa");
